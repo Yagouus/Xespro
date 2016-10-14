@@ -1,0 +1,4 @@
+Implementación de una aplicación web para la gestión comercial de los productos unitenda, asi como facilitar la compra en tiendas de terceros 
+
+
+El objetivo final se centra en el desarrollo de una aplicación web que promocione y ponga en valor los productos de la unitenda de la USC, permitiendo la compra online de su stock. A su vez, la comunidad universitaria podrá acceder a la aplicación utilizandola como gestor de compras con otras tiendas, con una funcionalidad extendida que permite compras grupales gestionadas por un servicio exclusivo de la usc, que permitirá la negociacón común, buscando un precio exclusivo
