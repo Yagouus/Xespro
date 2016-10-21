@@ -5,3 +5,9 @@ productos realizados en este hito
 lista de recursos humanos necesarios para cumplimentar esso productos ( recursos y esfuerzos de cada recurso ,debe coincidir con la hoja de estimaciones, coste en ueros , otros campos opcionales, descripcion del trabajo en el hito xej, criterios de finalizacion, no vale que las tareas esten terminadas y listo. suposiciones para que el hito se alcance, pero sin inventar)
 
 todo esto debe de ser consistente con lo escrito ya
+
+ENTREGA:
+
+Planificación práctica
+Planifiación proyecto: Con tipo de ciclo elegido, por que, y planificacion
+Memoria del proyecto: Añadir EDT e HITOS
