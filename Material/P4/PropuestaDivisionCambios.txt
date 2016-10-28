@@ -1,21 +1,14 @@
 #Cambio1: cambios menores del documento (estilo, etc...)
 	Ponerle nombre a proyecto
-	cambiar "desarrollado por"
-	revisar glosario (poner alfabeticamente, definir abreviaturas catalogo stock as CS)
-	identificador... hacer un poco mas distingible este apartado, plantillas muy parecidas, utilizar codigo de colores para diferenciar, por ejemplo
-	especificar un poco en la definicion de elementos que se venden en la tienda ( catalogo de productos de la uni(stock) + catalogo de productos de otras tiendas(pedidos))
-	participantes... empresa contratante, desarrolladores integrantes de la empresa, lista de implicados mas amplia ( se ve con efren mas adelante )
+	cambiar "desarrollado por"	
+	identificador... hacer un poco mas distingible este apartado, plantillas muy parecidas, utilizar codigo de colores para diferenciar, por ejemplo	
+	participantes... empresa contratante, desarrolladores integrantes de la empresa, lista de implicados mas amplia ( se ve con efren mas adelante 
 
-#Cambio2: actualización del alcance del documento
-	describimos el alcance a desarrollar, la introduccion debe explicar contexto en el q se desarrolla y objetivos de negocio
-	eliminar del glosario gant y linea base
-	extender el alcance ( cuando termine voy a tener esto..)
-	alcance incluye "estos" apartados, debemos hacer referencia a esos apartados
-	en este apartado vamos a llegar a estos puntos de lalcance.....
-	criterio de aceptacion: no hay q apuntar a objetivos del sistema. endrian que ser el punto de medida en el q aceptan el proyecto, la aceptacion va contra el cumplimiento de los objetivos
- 	no puedes vender de otras empresas si estas no ven que cumples ciertos requisitos
+#Cambio2: cambio glosario e introducción
+	revisar glosario (poner alfabeticamente, definir abreviaturas catalogo stock as CS)
+	especificar un poco en la definicion de elementos que se venden en la tienda ( catalogo de productos de la uni(stock) + catalogo de productos de otras tiendas(pedidos))
 	
-#Cambio3: actuazliación de objetivos
+#Cambio2: actuazliación de objetivos
 	Demasiados objetivos, se acercan a requisitos funcionales
 	debemos especificar objetivo del negocio q busca la empresa ( darse visibilidad con su merchandaising), luego determinamos objetivos de negocio para llegar al objetivo de empresa
 	los objetivos deben ser medibles, para aceptar proyecto hay q alcanzar el eobjetivo
@@ -26,6 +19,20 @@
 	objetivos vinculados con ....me perdi....
 
 
+#Cambio3: actualización del alcance del documento
+	describimos el alcance a desarrollar, la introduccion debe explicar contexto en el q se desarrolla y objetivos de negocio
+	eliminar del glosario gant y linea base
+	extender el alcance ( cuando termine voy a tener esto..)
+	alcance incluye "estos" apartados, debemos hacer referencia a esos apartados
+	en este apartado vamos a llegar a estos puntos de lalcance.....
+	criterio de aceptacion: no hay q apuntar a objetivos del sistema. endrian que ser el punto de medida en el q aceptan el proyecto, la aceptacion va contra el cumplimiento de los objetivos
+ 	no puedes vender de otras empresas si estas no ven que cumples ciertos requisitos
+	exclusiones...el cliente piensa q estan ..pero le decimos que no por ahora
+	son exclusiones del proyecto..el proyecto no implica desarrollo de una ap movil
+	supuestos...cosas que no sabemos pero q van en el proyecto
+	xj compras bussiness to bussiness 
+	tiempo desarrollo del proyecto 4 meses, restriccion sobre el proyecto, hay q describirla en el alcance
+
 #Cambio4: actualización de requisitos
 	matriz de trazabilidad... esta mas como dependencias..pero no se pide.
 	especificacion debe de tener trazabilidad hacia objetivos y hacia quien las pide?
@@ -33,10 +40,5 @@
 	como minimo trazabilidad hacia objetivos entonces
 	requisitos del sistema, faltan los entregables, deben de estar en los 2 sitios, como parte del alcance faltan entregables, que deben coincidir con los que debemos entregar. este entregable debe aparecer como hito
 	no tenemos exclusiones ni propuestos ( va en alcance)
-	exclusiones...el cliente piensa q estan ..pero le decimos que no por ahora
-	son exclusiones del proyecto..el proyecto no implica desarrollo de una ap movil
-	supuestos...cosas que no sabemos pero q van en el proyecto
-	xj compras bussiness to bussiness 
-	tiempo desarrollo del proyecto 4 meses, restriccion sobre el proyecto, hay q describirla en el alcance
 
 
