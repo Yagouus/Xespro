@@ -1,0 +1,57 @@
+Ponerle nombre a proyecto
+cambiar "desarrollado por"
+describimos el alcance a desarrollar, la introduccion debe explicar contexto en el q se desarrolla y objetivos de negocio
+
+eliminar del glosario gant y linea base
+
+especificar un poco en la definicion de elementos que se venden en la tienda ( catalogo de productos de la uni(stock) + catalogo de productos de otras tiendas(pedidos))
+
+revisar glosario (poner alfabeticamente, definir abreviaturas catalogo stock as CS)
+
+===================================
+
+participantes... empresa contratante, desarrolladores integrantes de la empresa, lista de implicados mas amplia ( se ve con efren mas adelante )
+
+Demasiados objetivos, se acercan a requisitos funcionales
+
+debemos especificar objetivo del negocio q busca la empresa ( darse visibilidad con su merchandaising), luego determinamos objetivos de negocio para llegar al objetivo de empresa
+
+los objetivos deben ser medibles, para aceptar proyecto hay q alcanzar el eobjetivo
+
+no muchos objetivos, mas facil de visualizar y no entren en conflicto
+trazabilidad entre objetivos y requisitos, con código
+
+====================================
+
+extender el alcance ( cuando termine voy a tener esto..)
+
+alcance incluye "estos" apartados, debemos hacer referencia a esos apartados
+en este apartado vamos a llegar a estos puntos de lalcance.....
+
+criterio de aceptacion: no hay q apuntar a objetivos del sistema. endrian que ser el punto de medida en el q aceptan el proyecto, la aceptacion va contra el cumplimiento de los objetivos
+ no puedes vender de otras empresas si estas no ven que cumples ciertos requisitos
+
+hay algunos que deben ser vinculados a calidad ( objetvos del plan de pruebas )
+objetivos vinculados con calidad
+objetivos vinculados con ....me perdi....
+
+======================================
+
+requisitos del sistema, faltan los entregables, deben de estar en los 2 sitios, como parte del alcance faltan entregables, que deben coincidir con los que debemos entregar. este entregable debe aparecer como hito
+
+=====================================
+
+identificador... hacer un poco mas distingible este apartado, plantillas muy parecidas, utilizar codigo de colores para diferenciar, por ejemplo
+
+=====================================
+
+matriz de trazabilidad... esta mas como dependencias..pero no se pide.
+
+especificacion debe de tener trazabilidad hacia objetivos y hacia quien las pide?
+hacia abajo diseños y codoigos q las cumplen
+
+como minimo trazabilidad hacia objetivos entonces
+
+=======================================
+
+
