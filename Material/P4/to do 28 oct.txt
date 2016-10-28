@@ -54,4 +54,18 @@ como minimo trazabilidad hacia objetivos entonces
 
 =======================================
 
+=======================================
+
+no tenemos exclusiones ni propuestos ( va en alcance)
+
+exclusiones...el cliente piensa q estan ..pero le decimos que no por ahora
+
+son exclusiones del proyecto..el proyecto no implica desarrollo de una ap movil
+
+supuestos...cosas que no sabemos pero q van en el proyecto
+xj compras bussiness to bussiness 
+
+=======================================
+tiempo desarrollo del proyecto 4 meses, restriccion sobre el proyecto, hay q describirla en el alcance
+
 
