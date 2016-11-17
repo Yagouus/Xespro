@@ -1,0 +1,8 @@
+chequeados en la entrega
+===========================
+cuando demos costes, nos hace una evaluacion total de lo entregado hasta ahora, con recomendaciones y feedback
+
+a la hora de corrregir, marcará en rojo las cosas que estan mal y chequea con lo explicado (se corrige todo, aunq no sea su parte)
+
+
+
