@@ -1,0 +1,64 @@
+====
+introduccion
+central de compras...bien concepto
+
+negocio
+participantes bien
+
+objetivos muy bien
+alcance bien
+criterio de aceptacion
+
+primero hay q cumplir criterios de aceptacion de cliente USC
+regatea lo del 80%
+
+
+desarrollo en idiomas, expecificar cuales, los de la uni only o hacemos mas sobre un conste mayor
+
+RECURSOS HUMANOS
+activos de la organizacion no se nombre
+describir un poco el activos de empresa, logistica, estado del arte 
+entradas requisitos vision valores mision, politicos de la empresa
+
+jefe de proyecto autoridad en alguna cosa, q no tiene nada (autoridad y responsable)
+
+competencias
+en competencias metemos los roles y creo q va mal eso
+el jefe tien capacidad de liderazco , conocimientos, don de gentes, esto es lo que tiene q ir en competencias ( necesidades de capacitacion only formacion)
+
+organigrama bien
+
+adquisicion, todos los trabajadores pertenecen o no a la empresa..?
+
+calendarios de recursos
+cambiar colores, parece q los dias q trabaja son festivos
+
+la grafica es la disponibilidad, parece q confunde.. hay q puntualizar su version del enunciado para que se quede contento
+
+liberacion
+"enganchar" con las horas que trabaja, tengo que especificar cual es el ultimo dia que trabaja
+
+reconocimiento recompensas
+muy difuso, parece ser....tenemos que especificar alguna cosa creativa...con lo que sobre
+
+cumplimiento
+cumplimiento de normas legales, estatuto trabajadores, leyes.. no se habla de esto, ni de gestion de conflictos
+
+gestion de riesgos
+
+novelada que guasas....
+
+introduccion de riesgos bien
+
+elaboracion de planificacion
+los riesgos se suelen numerar trabajado de mas parece ser
+poner algo mas en el excel
+matriz probabilidad-impacto hacer
+
+analisis cuantitativo, pero no decimos nada del cualitativo...deciar alguna cosa de eso
+
+planificacion respuesta riesgo
+
+
+riesgos..descripcion de riesgo..accion..? que accion hacemos..mitigas haciendo.....??? hay q inventar las acciones, y como las desarrollamos, quien las hace?
+
